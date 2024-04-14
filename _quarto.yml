@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: docs
+
+
+website:
+  title: "Monserrat Olavarria"
+  navbar:
+    right:
+      - text: Teatro
+        href: teatro.qmd
+      - text: Dischi
+        href: dischi.qmd
+      - text: Concerti
+        href: concerti.qmd
+      - text: Corsi
+        href: corsi.qmd
+      - text: Chi sono
+        href: about.qmd    
+      - text: Contatti
+        href: contact.qmd
+      - icon: youtube
+        href: https://www.youtube.com/channel/UCMQJkzvobU3ZikrzYaY3x7w/featured/
+      - icon: messenger
+        href: https://m.me/avenidamerica/
+      - icon: facebook
+        href: https://www.facebook.com/avenidamerica/
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+
+lang: it
+
+#execute:
+#  freeze: true  # never re-render during project render
+#  freeze: auto  # re-render only when source changes

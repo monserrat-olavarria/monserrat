@@ -1,0 +1,41 @@
+[
+  {
+    "listing": "/dischi.html",
+    "items": [
+      "/dischi/2017-01-01-avenidamerica_disco.html",
+      "/dischi/2019-01-07-tiritinlalla.html"
+    ]
+  },
+  {
+    "listing": "/teatro.html",
+    "items": [
+      "/teatro/canti_argilla.html",
+      "/teatro/canti_argilla_presentazione/index.html",
+      "/teatro/foto/index.html"
+    ]
+  },
+  {
+    "listing": "/corsi.html",
+    "items": [
+      "/corsi/tiburtino.html",
+      "/corsi/2019-01-10-primipassi.html",
+      "/corsi/asili.html",
+      "/corsi/2019-11-30-spaziogioco_iqbal.html",
+      "/corsi/2019-01-01-mammaepapa.html",
+      "/corsi/2019-10-20-concerto_spazio_manipura.html",
+      "/corsi/2019-12-14-musicanova.html",
+      "/corsi/2019-10-06-concerto_clivio_bistrot.html",
+      "/corsi/centro_ottava.html",
+      "/corsi/2019-12-07-lastanzadellamusica.html",
+      "/corsi/2019-01-09-giochi_in_musica.html",
+      "/corsi/2019-10-26-lamusica.html",
+      "/corsi/2019-01-06-un_mondo_di_voci.html"
+    ]
+  },
+  {
+    "listing": "/concerti.html",
+    "items": [
+      "/concerti/2017-11-15-ilbaffodellagioconda.html"
+    ]
+  }
+]

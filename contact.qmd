@@ -1,0 +1,19 @@
+---
+title: "Contatti"
+image: image/monserrat_rotonda.jpg
+about:
+  template: jolla
+  links:
+      - icon: youtube
+        href: https://www.youtube.com/channel/UCMQJkzvobU3ZikrzYaY3x7w/featured/
+      - icon: messenger
+        href: https://m.me/avenidamerica/
+      - icon: facebook
+        href: https://www.facebook.com/avenidamerica/
+---
+
+Monserrat Olavarria Balmaceda
+
+cellulare: [+39 342 371 1750](tel:+393423711750)
+
+email: [olavarria.balmaceda\@gmail.com](mailto:olavarria.balmaceda@gmail.com)

@@ -1,0 +1,22 @@
+---
+title: "Corsi"
+listing:
+  contents: corsi
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+{{< video https://www.youtube.com/embed/5DbXNHvHHk4 >}}
+
+## Laboratori di educazione musicale
+
+**a cura di Monserrat Olavarria Balmaceda**
+
+cellulare: [+39 342 371 1750](tel:+393423711750)
+
+email: [olavarria.balmaceda\@gmail.com](mailto:olavarria.balmaceda@gmail.com)

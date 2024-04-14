@@ -1,0 +1,64 @@
+---
+format: 
+  revealjs: 
+    auto-slide: 4000
+    loop: true
+---
+
+##  {background-color="black" background-image="images/_P0A6852-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A6853-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A6860-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A6863-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A6871-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A6902-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A6962.jpg"}
+
+##  {background-color="black" background-image="images/_P0A6964-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A6973-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A7002-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A7022-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A7023 copia-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A7025-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A7026-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A7055-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A7058-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A7061-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A7112-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A7128-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A7143-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A7147-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A7190-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A7192-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A7197-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A7199-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A7204-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A7215-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A7238-Migliorato-NR.jpg"}
+
+##  {background-color="black" background-image="images/_P0A7250.jpg"}
