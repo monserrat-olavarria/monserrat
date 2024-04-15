@@ -1,20 +1,5 @@
 [
   {
-    "listing": "/dischi.html",
-    "items": [
-      "/dischi/2017-01-01-avenidamerica_disco.html",
-      "/dischi/2019-01-07-tiritinlalla.html"
-    ]
-  },
-  {
-    "listing": "/teatro.html",
-    "items": [
-      "/teatro/canti_argilla.html",
-      "/teatro/canti_argilla_presentazione/index.html",
-      "/teatro/foto/index.html"
-    ]
-  },
-  {
     "listing": "/corsi.html",
     "items": [
       "/corsi/tiburtino.html",
@@ -33,9 +18,19 @@
     ]
   },
   {
-    "listing": "/concerti.html",
+    "listing": "/spettacoli.html",
     "items": [
-      "/concerti/2017-11-15-ilbaffodellagioconda.html"
+      "/spettacoli/canti_argilla.html",
+      "/spettacoli/2017-11-15-ilbaffodellagioconda.html",
+      "/spettacoli/canti_argilla_presentazione/index.html",
+      "/spettacoli/foto_canti_agilla/index.html"
+    ]
+  },
+  {
+    "listing": "/dischi.html",
+    "items": [
+      "/dischi/2017-01-01-avenidamerica_disco.html",
+      "/dischi/2019-01-07-tiritinlalla.html"
     ]
   }
 ]
