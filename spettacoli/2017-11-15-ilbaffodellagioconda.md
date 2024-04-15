@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Il baffo della gioconda"
-categories: AvenidAmerica
+categories: [AvenidAmerica,concerti]
 image: "/image/25348488_1583712985028961_6717346354392795633_n.jpg"
 ---
 

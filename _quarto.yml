@@ -7,12 +7,10 @@ website:
   title: "Monserrat Olavarria"
   navbar:
     right:
-      - text: Teatro
-        href: teatro.qmd
       - text: Dischi
         href: dischi.qmd
-      - text: Concerti
-        href: concerti.qmd
+      - text: Spettacoli
+        href: spettacoli.qmd
       - text: Corsi
         href: corsi.qmd
       - text: Chi sono
