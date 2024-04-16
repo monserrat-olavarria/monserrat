@@ -21,9 +21,9 @@ Premi le freccie o scorri lo schermo per andare avanti con la presentazione
 
 Se vuoi vedere [la presentazione](canti_argilla_presentazione/){target="_blank"} dello spettacolo a tutto schermo.
 
-Per scaricare il PDF della presentazione dello spettacolo teatrale [canti d' argilla](canti_argilla_presentazione/canti_argilla_presentazione.pdf)
+Per scaricare il PDF della presentazione dello spettacolo teatrale [canti d' argilla](./canti_argilla_presentazione/canti_argilla_presentazione.pdf)
 
-[foto dello spettacolo](foto_canti_argilla/)
+[foto dello spettacolo](./foto_canti_agilla/)
 
 ## Canti d'argilla
 

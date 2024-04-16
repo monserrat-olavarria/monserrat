@@ -2,7 +2,7 @@
 layout: post
 title:  "Di concerto con mamma e papà"
 categories: [0-5 anni]
-image: "_images/Locandina-13-ottobre-2024.jpg"
+image: "images/Locandina-13-ottobre-2024.jpg"
 ---
 
 ::: {layout="[ 70, 30 ]"}
@@ -10,8 +10,6 @@ image: "_images/Locandina-13-ottobre-2024.jpg"
 Domenica 13 ottobre 2024 - Bioparco (Roma)\
 Bioparco -- Sala degli Elefanti\
 Viale del Giardino Zoologico, 20  -- Roma
-
-
 
 #### Attività musicale interattiva per bambini da 0 a 5 anni con i genitori
 
@@ -27,7 +25,7 @@ Annamaria Diroma -- voce e flauto traverso
 :::
 
 ::: {#second-column}
-[![](_images/Locandina-13-ottobre-2024.jpg){width="25%"}](_images/Locandina-13-ottobre-2024.pdf)
+[![](images/Locandina-13-ottobre-2024.jpg)](images/Locandina-13-ottobre-2024.pdf)
 :::
 :::
 
