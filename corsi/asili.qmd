@@ -1,9 +1,8 @@
 ---
 layout: post
 title:  "Asili nido e scuole dell'infanzia"
-author: monserrat
 categories: [asili nido,scuole d'infanzia,0-3 anni,3-5 anni]
-image: "/image/diconcerto_ensemble.jpg"
+image: "/image/bambini_musica.jpg"
 ---
 
 ## Asili nido e scuole dell'infanzia

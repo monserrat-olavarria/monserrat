@@ -1,12 +1,19 @@
 ---
 layout: post
 title:  "Scuola Popolare di Musica del Tiburtino"
-author: monserrat
 categories: [3-6 anni,scuole di musica]
-image: "/image/diconcerto_ensemble.jpg"
+image: "/image/tiburtino_logo.png"
 ---
 
+::: {layout="[ 20, 80 ]"}
+::: {#first-column}
+![](/image/tiburtino_logo.png)
+:::
+
+::: {#second-column}
 #### [Scuola Popolare di Musica del Tiburtino](https://www.scuolapopolaremusicatiburtino.it)
 
 -   Giovedì 18:00 alle 19:00 Dai 3 ai 6 anni -- Propedeutica musicale
 -   Venerdì 17:00 alle 18:00 Dai 3 ai 6 anni -- Propedeutica musicale
+:::
+:::
