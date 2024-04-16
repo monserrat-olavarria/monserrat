@@ -2,7 +2,7 @@
 layout: post
 title:  "Di concerto con mamma e papà"
 categories: [0-5 anni]
-image: "images/Locandina-13-ottobre-2024.jpg"
+image: "images/Locandina-27-ottobre-2024.jpg"
 ---
 
 ::: {layout="[ 70, 30 ]"}
@@ -25,7 +25,7 @@ Annamaria Diroma -- voce e flauto traverso
 :::
 
 ::: {#second-column}
-[![](images/Locandina-13-ottobre-2024.jpg){width="25%"}](images/Locandina-13-ottobre-2024.pdf)
+[![](images/Locandina-27-ottobre-2024.jpg)](images/Locandina-13-ottobre-2024.pdf)
 :::
 :::
 
