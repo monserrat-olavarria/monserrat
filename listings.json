@@ -1,5 +1,14 @@
 [
   {
+    "listing": "/spettacoli.html",
+    "items": [
+      "/spettacoli/canti_argilla.html",
+      "/spettacoli/2017-11-15-ilbaffodellagioconda.html",
+      "/spettacoli/canti_argilla_presentazione/index.html",
+      "/spettacoli/foto_canti_agilla/index.html"
+    ]
+  },
+  {
     "listing": "/corsi.html",
     "items": [
       "/corsi/giochi_in_musica.html",
@@ -9,16 +18,6 @@
       "/corsi/primipassi.html",
       "/corsi/un_mondo_di_voci.html",
       "/corsi/centro_ottava.html"
-    ]
-  },
-  {
-    "listing": "/spettacoli.html",
-    "items": [
-      "/spettacoli/canti_argilla.html",
-      "/spettacoli/2017-11-15-ilbaffodellagioconda.html",
-      "/spettacoli/canti_argilla_presentazione/index.html",
-      "/spettacoli/email.html",
-      "/spettacoli/foto_canti_agilla/index.html"
     ]
   },
   {
