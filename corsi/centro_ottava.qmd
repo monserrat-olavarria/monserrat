@@ -11,7 +11,7 @@ image: "/image/centroottava-logo.png"
 :::
 
 ::: {#second-column}
-#### [Centro Ottava](https://www.centrottava.it/)
+
 
 Sabato 10:30 alle 11:30 primi passi cantando, per bambini da 0 a 36 mesi accompagnati da un genitore.
 

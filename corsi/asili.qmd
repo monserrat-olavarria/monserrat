@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Asili nido e scuole dell'infanzia"
-categories: [asili nido,scuole d'infanzia,0-3 anni,3-5 anni]
+categories: [asili nido,scuole d'infanzia,0-3 anni,3-5 anni, sc]
 image: "/image/tamburo.jpg"
 ---
 
-## Scquole dui musica e asili nido e scuole dell'infanzia 
+## Scuole dui musica e asili nido e scuole dell'infanzia
 
 #### [In crescendo](https://www.increscendo.it/)
 
