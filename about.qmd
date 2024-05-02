@@ -2,7 +2,7 @@
 # title: "Chi sono"
 image: /image/monserrat01.jpg
 about:
-  template: trestles
+  template: marquee
   links:
       - icon: youtube
         href: https://www.youtube.com/channel/UCMQJkzvobU3ZikrzYaY3x7w/featured/
