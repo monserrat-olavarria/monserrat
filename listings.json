@@ -1,23 +1,21 @@
 [
   {
-    "listing": "/spettacoli.html",
-    "items": [
-      "/spettacoli/canti_argilla.html",
-      "/spettacoli/2017-11-15-ilbaffodellagioconda.html",
-      "/spettacoli/canti_argilla_presentazione/index.html",
-      "/spettacoli/foto_canti_agilla/index.html"
-    ]
-  },
-  {
     "listing": "/corsi.html",
     "items": [
       "/corsi/giochi_in_musica.html",
       "/corsi/asili.html",
-      "/corsi/27_ottobre_2024_mammaepapa.html",
-      "/corsi/13_ottobre_2024_mammaepapa.html",
       "/corsi/primipassi.html",
       "/corsi/un_mondo_di_voci.html",
       "/corsi/centro_ottava.html"
+    ]
+  },
+  {
+    "listing": "/spettacoli.html",
+    "items": [
+      "/spettacoli/canti_argilla.html",
+      "/spettacoli/canti_argilla_presentazione/index.html",
+      "/spettacoli/avenidamerica.html",
+      "/spettacoli/foto_canti_agilla/index.html"
     ]
   },
   {
