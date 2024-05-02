@@ -1,6 +1,6 @@
 ---
 # title: "Chi sono"
-image: /image/monserrat01.jpg
+image: image/monserrat01.jpg
 about:
   template: marquee
   links:

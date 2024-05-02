@@ -1,6 +1,7 @@
 ---
 title: "Avenidamerica"
 image: images/avenidamerica.jpg
+categories: [AvenidAmerica]
 ---
 
 **AVENIDAMERICA** in concerto Latin-folk, jazz, contaminazioni etniche e canzone d'autore

@@ -1,9 +1,10 @@
 ---
 title: "Animali sciamanici"
+categories: [AvenidAmerica]
 image: images/sciamanici.jpg
 ---
 
-## AVENIDAMERICA 
+## AVENIDAMERICA
 
 concerto. Un viaggio poetico e giocoso e attraverso le storie e la musica del Sud America.
 
