@@ -50,3 +50,5 @@ Registrato a Roma, Italia, durante alcuni giorni di giugno e settembre 2017
 
 -   Ernesto Rainieri - registrazione e mixing a Soundclub Recording Studio
 -   Clive Simpson - registrazione e mastering a Extrabeat Recording
+
+![](/image/avenidamerica_bn.jpg)

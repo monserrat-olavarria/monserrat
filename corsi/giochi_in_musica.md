@@ -2,7 +2,7 @@
 layout: post
 title:  "Giochi in musica"
 categories: [4-6 anni]
-image: "/image/bambini_musica.jpg"
+image: "/image/uculele.jpg"
 ---
 
 ##### Propedeutica musicale per bambini dai 4 ai 6 anni
