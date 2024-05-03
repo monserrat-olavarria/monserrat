@@ -1,25 +1,22 @@
 [
   {
+    "listing": "/spettacoli.html",
+    "items": [
+      "/spettacoli/canti_argilla.html",
+      "/spettacoli/canti_argilla_presentazione/index.html",
+      "/spettacoli/mammapapa.html",
+      "/spettacoli/avenidamerica.html",
+      "/spettacoli/foto_canti_agilla/index.html",
+      "/spettacoli/sciamanici.html"
+    ]
+  },
+  {
     "listing": "/corsi.html",
     "items": [
       "/corsi/giochi_in_musica.html",
       "/corsi/asili.html",
       "/corsi/primipassi.html",
-      "/corsi/un_mondo_di_voci.html",
-      "/corsi/centro_ottava.html"
-    ]
-  },
-  {
-    "listing": "/spettacoli.html",
-    "items": [
-      "/spettacoli/canti_argilla.html",
-      "/spettacoli/13_ottobre_2024_mammaepapa (copia).html",
-      "/spettacoli/13_ottobre_2024_mammaepapa.html",
-      "/spettacoli/27_ottobre_2024_mammaepapa.html",
-      "/spettacoli/canti_argilla_presentazione/index.html",
-      "/spettacoli/avenidamerica.html",
-      "/spettacoli/foto_canti_agilla/index.html",
-      "/spettacoli/sciamanici.html"
+      "/corsi/un_mondo_di_voci.html"
     ]
   },
   {
