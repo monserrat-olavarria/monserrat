@@ -1,6 +1,5 @@
 ---
 # title: "Chi sono"
-image: image/monserrat01.jpg
 about:
   template: marquee
   links:
@@ -11,6 +10,8 @@ about:
       - icon: facebook
         href: https://www.facebook.com/avenidamerica/
 ---
+
+![](image/monserrat-01976.jpg)
 
 ## Monserrat Olavarria Balmaceda
 
@@ -34,6 +35,8 @@ In ambito teatrale ho approfondito la formazione attoriale con Christine Cibils 
 
 Sono leader del quartetto latin-folk jazz "Avenidamerica"; faccio parte del gruppo musicale per l'infanzia "Di concerto con Mamma e Papà"; sono la voce solista della "Misa Criolla", sotto la direzione del maestro Paula Gallardo.
 
+![](image/avenidamerica_bn.jpg){width="100%"}
+
 Ho pubblicato gli album: "Avenidamerica, dedicado a Violeta", patrocinato dall'Ambasciata del Cile in Italia e dall'istituto IILA;  "L'Isola di Tiritinlallà", libro/disco per l'infanzia per il quale ho scritto la storia, le canzoni e realizzato le illustrazioni.
 
 Attualmente sono impegnata nella promozione dello spettacolo teatrale e musicale "Canti d'Argilla, la mia voce ha mille corpi".
@@ -43,5 +46,3 @@ Sono una docente specializzata nell'educazione musicale secondo la Music Learnin
 In sintesi spendo la mia professionalità tra il lavoro performativo e la docenza, vista come promozione del benessere delle persone di qualsiasi età attraverso la pratica dei linguaggi artistici.
 
 ![](image/monserrat-01990.jpg){width="100%"}
-
-![](image/avenidamerica_bn.jpg){width="100%"}

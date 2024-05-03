@@ -1,6 +1,6 @@
 ---
 title: "Contatti"
-image: image/monserrat_rotonda.jpg
+image: "image/monserrat01.jpeg"
 about:
   template: jolla
   links:
@@ -11,6 +11,8 @@ about:
       - icon: facebook
         href: https://www.facebook.com/avenidamerica/
 ---
+
+
 
 Monserrat Olavarria Balmaceda
 

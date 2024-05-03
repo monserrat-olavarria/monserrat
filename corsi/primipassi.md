@@ -16,7 +16,7 @@ Ogni essere umano nasce con un attitudine musicale quindi con una capacità pote
 
 L'uso del canto senza parole, del silenzio, del respiro e del movimento del corpo sono alcuni degli ingredienti essenziali delle proposte educative (basate sulla M.T.L.) che permettono all'educatore musicale di guidare i bambini in un processo che, dai primi mesi di vita li può accompagnare, in un'atmosfera di gioco, di scoperta e di crescita, fino all'età scolare e poi fino allo strumento musicale e al coro
 
-#### 
+![](/image/bambini02.jpeg)
 
 #### **Monserrat Olavarria Balmaceda**
 
