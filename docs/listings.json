@@ -3,20 +3,11 @@
     "listing": "/spettacoli.html",
     "items": [
       "/spettacoli/canti_argilla.html",
-      "/spettacoli/mammapapa/13_ottobre_2024_mammaepapa.html",
-      "/spettacoli/mammapapa/27_ottobre_2024_mammaepapa.html",
       "/spettacoli/canti_argilla_presentazione/index.html",
       "/spettacoli/mammapapa.html",
       "/spettacoli/avenidamerica.html",
       "/spettacoli/foto_canti_agilla/index.html",
       "/spettacoli/sciamanici.html"
-    ]
-  },
-  {
-    "listing": "/spettacoli/mammapapa.html",
-    "items": [
-      "/spettacoli/mammapapa/13_ottobre_2024_mammaepapa.html",
-      "/spettacoli/mammapapa/27_ottobre_2024_mammaepapa.html"
     ]
   },
   {
