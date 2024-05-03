@@ -1,12 +1,12 @@
 ---
 #layout: post
-title:  "Avenidamerica"
+title:  "Avenidamerica, dedicado a Violeta"
 category: dischi
 image: "/image/avenidamerica_poster.jpg"
 author: monserrat
 ---
 
-Il gruppo Avenidamerica ha pubblicato il disco "Avenidamerica, dedicado a Violeta" (Violeta Parra) con il patrocinio dell'Istituto IILA e dell'Ambasciata del Cile in Italia.
+Il gruppo **Avenidamerica** ha pubblicato il disco "Avenidamerica, dedicado a Violeta" (Violeta Parra) con il patrocinio dell'Istituto IILA e dell'Ambasciata del Cile in Italia.
 
 ::: {.embed-responsive .embed-responsive-16by9}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8VmK1VrDFg0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
