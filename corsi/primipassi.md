@@ -2,10 +2,11 @@
 layout: post
 title:  "Primi passi cantando"
 categories: [0 a 36 mesi]
-image: "/image/foto2.jpg"
 ---
 
-##### Laboratorio di Educazione Musicale
+![](/image/uculele.jpeg)
+
+### Laboratorio di Educazione Musicale
 
 Per bambini da 0 a 36 mesi accompagnati da un genitore o da un adulto di riferimento.
 

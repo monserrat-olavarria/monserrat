@@ -1,15 +1,5 @@
 [
   {
-    "listing": "/corsi.html",
-    "items": [
-      "/corsi/giochi_in_musica.html",
-      "/corsi/asili.html",
-      "/corsi/primipassi.html",
-      "/corsi/un_mondo_di_voci.html",
-      "/corsi/centro_ottava.html"
-    ]
-  },
-  {
     "listing": "/spettacoli.html",
     "items": [
       "/spettacoli/canti_argilla.html",
@@ -20,6 +10,15 @@
       "/spettacoli/avenidamerica.html",
       "/spettacoli/foto_canti_agilla/index.html",
       "/spettacoli/sciamanici.html"
+    ]
+  },
+  {
+    "listing": "/corsi.html",
+    "items": [
+      "/corsi/giochi_in_musica.html",
+      "/corsi/asili.html",
+      "/corsi/primipassi.html",
+      "/corsi/un_mondo_di_voci.html"
     ]
   },
   {

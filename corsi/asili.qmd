@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "Asili nido e scuole dell'infanzia"
-categories: [asili nido,scuole d'infanzia,0-3 anni,3-5 anni, sc]
-image: "/image/tamburo.jpg"
+title:  "Scuole di musica, asili nido e scuole dell'infanzia"
+categories: [asili nido,scuole d'infanzia,0-3 anni,3-5 anni,scuole di musica]
 ---
 
-## Scuole dui musica e asili nido e scuole dell'infanzia
+![](/image/tamburo.jpeg)
 
-#### [In crescendo](https://www.increscendo.it/)
+## Scuole di musica, asili nido e scuole dell'infanzia
 
-#### [Il paese delle meraviglie](https://asilonidoilpaesedellemeraviglie.eu/)
+-   [In crescendo](https://www.increscendo.it/)
 
-[Asilo nido e scuola dell'infanzia Gemelli - Busy Bees](https://busybees.it/asili/asilo-nido-e-scuola-infanzia-gemelli-roma/)
+-   [Il paese delle meraviglie](https://asilonidoilpaesedellemeraviglie.eu/)
 
-[Centro Ottava](https://www.centrottava.it/)
+-   [Asilo nido e scuola dell'infanzia Gemelli - Busy Bees](https://busybees.it/asili/asilo-nido-e-scuola-infanzia-gemelli-roma/)
+
+-   [Centro Ottava](https://www.centrottava.it/)

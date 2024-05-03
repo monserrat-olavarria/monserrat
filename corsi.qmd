@@ -10,4 +10,5 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
-{{< video  https://youtube.com/watch?v=RUttCQcHmGY&feature=shared >}}
+
+{{< video https://youtube.com/watch?v=RUttCQcHmGY&feature=shared >}}
