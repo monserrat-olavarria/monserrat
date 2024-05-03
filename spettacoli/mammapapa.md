@@ -20,26 +20,24 @@ La modalità di intervento è ideata e pensata sulle reali capacità di ascolto 
 [![13 Ottobre 2024](/image/Locandina-13-ottobre-2024.jpg)](/image/Locandina-13-ottobre-2024.pdf)
 :::
 
--   Domenica 13 ottobre 2024 - Bioparco (Roma)
--   Domenica 27 ottobre 2024 - Bioparco (Roma)
-
-Bioparco -- Sala degli Elefanti\
-Viale del Giardino Zoologico, 20 -- Roma
-
 #### Attività musicale interattiva per bambini da 0 a 5 anni con i genitori
 
--   ore 10.30
--   ore 11.30
+-   Domenica 13 ottobre 2024 - Bioparco (Roma)\
+    ore 10.30\
+    ore 11.30
 
-Francesca Scaglione -- voce e pianoforte\
-Monserrat Olavarria Balmaceda -- voce e percussioni\
-Annamaria Diroma -- voce e flauto traverso
-
-A coloro che prenderanno parte a **di Concerto con Mamma e Papà ®,** è riservato uno sconto sull'ingresso al Bioparco, il biglietto costerà €10,00, valido per il giorno stesso. Approfittatene per visitare il Bioparco, dopo l'attività musicale! Info: [3470960533](tel:3470960533)
+-   Domenica 27 ottobre 2024 - Bioparco (Roma)\
+    ore 10.30\
+    ore 11.30
 
 ::: column-margin
 [![27 Ottobre 2024](/image/Locandina-27-ottobre-2024.jpg)](/image/Locandina-27-ottobre-2024.pdf)
 :::
+
+**Bioparco -- Sala degli Elefanti**\
+Viale del Giardino Zoologico, 20 -- Roma
+
+A coloro che prenderanno parte a **di Concerto con Mamma e Papà ®,** è riservato uno sconto sull'ingresso al Bioparco, il biglietto costerà €10,00, valido per il giorno stesso. Approfittatene per visitare il Bioparco, dopo l'attività musicale! Info: [3470960533](tel:3470960533)
 
 Chi è interessato al biglietto scontato (€10,00) deve segnalarlo in fase di prenotazione on line, scegliendo la voce apposita che reca la dicitura (+ingresso Bioparco)
 
