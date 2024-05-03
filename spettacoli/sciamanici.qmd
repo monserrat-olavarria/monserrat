@@ -1,8 +1,9 @@
 ---
 title: "Animali sciamanici"
 categories: [AvenidAmerica]
-image: images/sciamanici.jpg
 ---
+
+![](/image/sciamanici.jpeg)
 
 ## AVENIDAMERICA
 
