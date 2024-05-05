@@ -4,22 +4,8 @@ format:
     page-layout: full
 ---
 
-```{=html}
-<!-- Hero Section -->
-<section id="hero" class="hero section">
+#### 
 
-  <img src="image/monserrat-primapagina2.jpg" alt="" data-aos="fade-in">
+![](image/monserrat-primapagina2.jpg)
 
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-10">
-        <h2 data-aos="fade-up" data-aos-delay="100">La pratica artistica è quel cammino di pietruzze colorate che ci guida nella scoperta di noi stessi, ci apre il sentiero dell'incontro con gli altri, ci illumina nella costruzione quotidiana di un mondo in cui tutte e tutti abbiano diritto alla felicità</h2>
-
-      </div>
-
-    </div>
-  </div>
-
-</section><!-- /Hero Section -->
-```
-
+#### La pratica artistica è quel cammino di pietruzze colorate che ci guida nella scoperta di noi stessi, ci apre il sentiero dell'incontro con gli altri, ci illumina nella costruzione quotidiana di un mondo in cui tutte e tutti abbiano diritto alla felicità
