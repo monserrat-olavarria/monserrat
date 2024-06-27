@@ -4,8 +4,14 @@ format:
     page-layout: full
 ---
 
-#### 
+::: grid
+::: {.g-col-12 .g-col-md-7}
+![](image/monserrat-primapagina2.jpg){fig-align="left" width="100%"}
+:::
 
-![](image/monserrat-primapagina2.jpg)
+
+::: {.g-col-12 .g-col-md-5}
 
 #### La pratica artistica è quel cammino di pietruzze colorate che ci guida nella scoperta di noi stessi, ci apre il sentiero dell'incontro con gli altri, ci illumina nella costruzione quotidiana di un mondo in cui tutte e tutti abbiano diritto alla felicità
+:::
+:::

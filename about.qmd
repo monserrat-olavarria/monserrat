@@ -1,7 +1,8 @@
 ---
 # title: "Chi sono"
 about:
-  template: marquee
+  template: broadside
+  image: image/monserrat-02646.jpg
   links:
       - icon: youtube
         href: https://www.youtube.com/channel/UCMQJkzvobU3ZikrzYaY3x7w/featured/
@@ -10,8 +11,6 @@ about:
       - icon: facebook
         href: https://www.facebook.com/avenidamerica/
 ---
-
-![](image/monserrat-01976.jpg)
 
 ## Monserrat Olavarria Balmaceda
 

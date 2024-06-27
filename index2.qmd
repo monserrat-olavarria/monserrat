@@ -1,0 +1,37 @@
+---
+format: 
+  html: 
+    page-layout: article
+title-block-banner: images/banner.jpeg
+---
+
+
+::: grid
+::: {.g-col-12 .g-col-md-6}
+![](image/monserrat-primapagina2.jpg){fig-align="left" width="100%"}
+:::
+
+::: {.g-col-12 .g-col-md-6}
+## Monserrat Olavarria Balmaceda
+
+La pratica artistica è quel cammino di pietruzze colorate che ci guida nella scoperta di noi stessi, ci apre il sentiero dell'incontro con gli altri, ci illumina nella costruzione quotidiana di un mondo in cui tutte e tutti abbiano diritto alla felicità
+:::
+:::
+
+
+
+```{=html}
+
+
+<div class="card text-bg-dark">
+  <img src="image/monserrat-primapagina2.jpg" class="card-img" alt="monserrat">
+
+  <div class="card-img-overlay  mb-2" style="max-width: 20rem;" >
+
+    <h5 class="card-text"  >La pratica artistica è quel cammino di pietruzze colorate che ci guida nella scoperta di noi stessi, ci apre il sentiero dell'incontro con gli altri, ci illumina nella costruzione quotidiana di un mondo in cui tutte e tutti abbiano diritto alla felicità</h5>
+
+  </div>
+</div>
+
+
+```

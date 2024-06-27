@@ -1,25 +1,31 @@
 ---
 #layout: post
-title:  "Avenidamerica, dedicado a Violeta"
+title:  "AvenidAmerica, dedicado a Violeta"
 category: dischi
 image: "/image/avenidamerica_poster.jpg"
-author: monserrat
 ---
 
-Il gruppo **Avenidamerica** ha pubblicato il disco "Avenidamerica, dedicado a Violeta" (Violeta Parra) con il patrocinio dell'Istituto IILA e dell'Ambasciata del Cile in Italia.
+Il gruppo **AvenidAmerica** ha pubblicato il disco "AvenidAmerica, dedicado a Violeta" (Violeta Parra) con il patrocinio dell'Istituto IILA e dell'Ambasciata del Cile in Italia.
 
+```{=html}
+<!--
 ::: {.embed-responsive .embed-responsive-16by9}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8VmK1VrDFg0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
 :::
+-->
+```
+[![](/image/dedicato_a_violeta.jpg){fig-alt="Dedicado a Violeta" fig-align="center" width="90%"}](https://avenidamerica.bandcamp.com/album/dedicado-a-violeta?logged_in_mobile_menubar=true&search_item_id=359016654&search_item_type=b&search_match_part=%3F&search_page_id=3389991359&search_page_no=0&search_rank=1)
 
-## AVENIDAMERICA
+[compra il disco o un brano](https://avenidamerica.bandcamp.com/album/dedicado-a-violeta?logged_in_mobile_menubar=true&search_item_id=359016654&search_item_type=b&search_match_part=%3F&search_page_id=3389991359&search_page_no=0&search_rank=1)
+
+## [AvenidAmerica Dedicado a Violeta](https://avenidamerica.bandcamp.com/album/dedicado-a-violeta?logged_in_mobile_menubar=true&search_item_id=359016654&search_item_type=b&search_match_part=%3F&search_page_id=3389991359&search_page_no=0&search_rank=1)
 
 1.  Il mio paese non esiste (M. Olavarría Balmaceda) --- testo recitato non in video
 2.  Volver a los diecisiete (Violeta Parra)
 3.  Arriba quemando el sol (Violeta Parra)
-4.  Como flor de primavera (E. Dodaro - M. Olavarría B.)
+4.  [Como flor de primavera](https://avenidamerica.bandcamp.com/album/dedicado-a-violeta?logged_in_mobile_menubar=true&search_item_id=359016654&search_item_type=b&search_match_part=%3F&search_page_id=3389991359&search_page_no=0&search_rank=1) (E. Dodaro - M. Olavarría B.)
 5.  Rin del angelito (Violeta Parra)
 6.  Fina estampa (Chabuca Granda)
 7.  Chacarereando (Emmanuel Losio)
