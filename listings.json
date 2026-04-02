@@ -3,8 +3,12 @@
     "listing": "/corsi.html",
     "items": [
       "/corsi/giochi_in_musica.html",
+      "/corsi/primipassi-cantando.html",
       "/corsi/asili.html",
+      "/corsi/storie-di-parole.html",
+      "/corsi/giochi_in_musica_2.html",
       "/corsi/primipassi.html",
+      "/corsi/cantautori.html",
       "/corsi/un_mondo_di_voci.html"
     ]
   },
