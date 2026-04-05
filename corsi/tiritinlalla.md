@@ -1,12 +1,18 @@
 ---
 layout: post
-title:  "L'Isola di Tiritinlallà"
+title:  "La storia di Tiritinlallà"
 author: monserrat
-categories: [dischi,corsi]
+categories:
+  - "scuola dell’infanzia"
+  - "nido"
 image: "/image/tiritinlalla_1980.jpg"
 ---
 
-#### cd e mappa illustrata
+# L'Isola di Tiritinlallà
+
+#### Teatro, musica e arte -Spettacolo
+
+## cd e mappa illustrata
 
 L'isola di Tiritinlallà è una fiaba musicale ideata da Monserrat Olavarria, autrice della storia, delle canzoni e delle illustrazioni. Gli arrangiamenti sono di Ermanno Dodaro. L'edizione comprende un cd ed una mappa illustrata dell'isola sulla quale è possibile osservare tutti i personaggi della storia.
 

@@ -2,7 +2,7 @@
 # title: "Chi sono"
 about:
   template: broadside
-  image: image/monserrat-02646.jpg
+  image: "/image/monserrat-02646.jpg"
   links:
       - icon: youtube
         href: https://www.youtube.com/channel/UCMQJkzvobU3ZikrzYaY3x7w/featured/
@@ -28,13 +28,13 @@ Sono diplomata in canto jazz presso il Conservatorio di Frosinone, sono cantante
 
 Ho studiato canto con Susanna Stivali, Sara della Porta, Carla Marcotulli, Susan Long, Caterina Krueger; improvvisazione con Paolo Tombolesi e con Bob Stoloff (Umbria Jazz); didattica del canto con Simone Moscato e con la cantante e logopedista Giovanna Gallelli; composizione pop con Stefano Scatozza.
 
-![](image/monserrat-02552.jpg){width="100%"}\
+![](/image/monserrat-02552.jpg){width="100%"}\
 
 In ambito teatrale ho approfondito la formazione attoriale con Christine Cibils (Living Theatre) e sotto la direzione della regista argentina ho fatto parte della compagnia multietnica "Teatro della Contaminazione"; ho studiato danza contemporanea con Flavia della Lunga ed espressione corporea con Susan Martinet; ho collaborato con la regista e sceneggiatrice Marina Garroni (compagnia Teatro di Talia) e con l'artista Fernanda Pessolano (percorsi di teatro natura).
 
 Sono leader del quartetto latin-folk jazz "Avenidamerica"; faccio parte del gruppo musicale per l'infanzia "Di concerto con Mamma e Papà"; sono la voce solista della "Misa Criolla", sotto la direzione del maestro Paula Gallardo.
 
-![](image/avenidamerica_bn.jpg){width="100%"}
+![](/image/avenidamerica_bn.jpg){width="100%"}
 
 Ho pubblicato gli album: "Avenidamerica, dedicado a Violeta", patrocinato dall'Ambasciata del Cile in Italia e dall'istituto IILA;  "L'Isola di Tiritinlallà", libro/disco per l'infanzia per il quale ho scritto la storia, le canzoni e realizzato le illustrazioni.
 
@@ -44,4 +44,4 @@ Sono una docente specializzata nell'educazione musicale secondo la Music Learnin
 
 In sintesi spendo la mia professionalità tra il lavoro performativo e la docenza, vista come promozione del benessere delle persone di qualsiasi età attraverso la pratica dei linguaggi artistici.
 
-![](image/monserrat-01990.jpg){width="100%"}
+![](/image/monserrat-01990.jpg){width="100%"}

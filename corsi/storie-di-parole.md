@@ -1,12 +1,14 @@
 ---
 layout: post
 title:  "Storie di parole , musiche  e colori"
-categories: [asilo nido]
+categories: [nido]
 ---
 
-![](/image/uculele.jpeg)
+![](/image/bambini02.jpeg)
 
-### Una proposta di narrazione globale per i bambini dell'Asilo Nido
+Teatro, musica e arte – Laboratorio
+
+Una proposta di narrazione globale per i bambini dell'Asilo Nido
 
 **Occhi spalancati, silenzio assoluto e attenzione da scienziato...**
 
@@ -35,8 +37,6 @@ Parliamo di comunicazione da umano a umano, una comunicazione verso la quale tut
 4.  Ogni narrazione accompagnerà i bambini per più incontri, in modo da poter offrire i benefici educativi della ripetizione.
 
 **DURATA** Da uno a quattro incontri.
-
-![](/image/bambini02.jpeg)
 
 #### **Monserrat Olavarria Balmaceda**
 

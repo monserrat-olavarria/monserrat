@@ -1,0 +1,6 @@
+#!/bin/bash
+quarto publish github
+git add .
+git commit -m "aggiorno github"
+git push 
+

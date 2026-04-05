@@ -16,6 +16,7 @@ Il gruppo **AvenidAmerica** ha pubblicato il disco "AvenidAmerica, dedicado a Vi
 :::
 -->
 ```
+
 [![](/image/dedicato_a_violeta.jpg){fig-alt="Dedicado a Violeta" fig-align="center" width="90%"}](https://avenidamerica.bandcamp.com/album/dedicado-a-violeta?logged_in_mobile_menubar=true&search_item_id=359016654&search_item_type=b&search_match_part=%3F&search_page_id=3389991359&search_page_no=0&search_rank=1)
 
 [compra il disco o un brano](https://avenidamerica.bandcamp.com/album/dedicado-a-violeta?logged_in_mobile_menubar=true&search_item_id=359016654&search_item_type=b&search_match_part=%3F&search_page_id=3389991359&search_page_no=0&search_rank=1)

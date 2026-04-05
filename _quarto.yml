@@ -3,22 +3,22 @@ project:
   output-dir: docs
   resources: 
     - "*.pdf"
-
-
 website:
-  title: "Monserrat Olavarria Balmaceda"
+  title: "Monserrat Olavarria Balmaceda - Le Muse Girovaghe"
   navbar:
     right:
-      - text: Dischi
-        href: dischi.qmd
-      - text: Spettacoli
-        href: spettacoli.qmd
-      - text: Corsi
-        href: corsi.qmd
       - text: Chi sono
-        href: about.qmd    
+        href: muse/about.qmd
+      - text: Le muse Girovaghe
+        href: muse.qmd      
+      - text: Per le scuole
+        href: corsi.qmd
+      - text: Spettacoli
+        href: spettacoli.qmd        
       - text: Contatti
         href: contact.qmd
+      - text: Diario di viaggio
+        href: diario.qmd        
       - icon: youtube
         href: https://www.youtube.com/channel/UCMQJkzvobU3ZikrzYaY3x7w/featured/
       - icon: messenger
@@ -29,11 +29,8 @@ format:
   html:
     theme: cosmo
     css: styles.css
-
 editor: visual
-
 lang: it
-
 #execute:
 #  freeze: true  # never re-render during project render
 #  freeze: auto  # re-render only when source changes

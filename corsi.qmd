@@ -1,5 +1,5 @@
 ---
-title: "Corsi"
+title: "Per le scuole - Laboratori e spettacoli"
 listing:
   contents: corsi
   sort: "date desc"
@@ -12,3 +12,5 @@ title-block-banner: true
 ---
 
 {{< video https://youtube.com/watch?v=RUttCQcHmGY&feature=shared >}}
+
+[CV di Monserrat Olavarria Belmaceda](/corsi/Curriculum_didattico_Olavarria.pdf)

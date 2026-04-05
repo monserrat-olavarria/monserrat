@@ -1,10 +1,14 @@
 ---
 layout: post
 title:  "Siamo tutti cantautori"
-categories: [Scuola Primaria]
+categories:
+  - "scuola dell’infanzia"
+  - "scuola primaria"
 ---
 
-## Laboratorio di educazione musicale e composizione per bambini della Scuola Primaria
+![](/image/girotondo.jpg)
+
+Laboratorio di educazione musicale e composizione per bambini della Scuola Primaria
 
 ### Obiettivi generali del laboratorio
 

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Primi passi cantando 2"
-categories: [asilo nido]
+title:  "Primi passi cantando"
+categories: [nido]
 ---
 
 ![](/image/uculele.jpeg)
@@ -27,8 +27,6 @@ Un giorno a settimana da ottobre a giugno.
 ### LEZIONE APERTA
 
 Al termine del ciclo di incontri le famiglie saranno invitate a partecipare ad una lezione aperta durante la quale potranno condividere con i bimbi un momento di gioco musicale ricco di emozioni
-
-![](/image/bambini02.jpeg)
 
 #### **Monserrat Olavarria Balmaceda**
 
