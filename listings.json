@@ -17,6 +17,7 @@
     "listing": "/spettacoli.html",
     "items": [
       "/spettacoli/canti_argilla.html",
+      "/spettacoli/2017-11-15-ilbaffodellagioconda.html",
       "/spettacoli/avenidamerica_disco.html",
       "/spettacoli/canti_argilla_presentazione/index.html",
       "/spettacoli/avenidamerica.html",
@@ -26,6 +27,8 @@
   },
   {
     "listing": "/diario.html",
-    "items": []
+    "items": [
+      "/diario/esempio.html"
+    ]
   }
 ]
