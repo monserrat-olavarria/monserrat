@@ -1,7 +1,15 @@
 [
   {
+    "listing": "/diario.html",
+    "items": [
+      "/diario/esempio.html"
+    ]
+  },
+  {
     "listing": "/muse.html",
-    "items": []
+    "items": [
+      "/muse/about.html"
+    ]
   },
   {
     "listing": "/corsi.html",
@@ -23,12 +31,6 @@
       "/spettacoli/avenidamerica.html",
       "/spettacoli/foto_canti_agilla/index.html",
       "/spettacoli/sciamanici.html"
-    ]
-  },
-  {
-    "listing": "/diario.html",
-    "items": [
-      "/diario/esempio.html"
     ]
   }
 ]

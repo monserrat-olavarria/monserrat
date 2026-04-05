@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://monserrat.olavarria.it/about.html</loc>
-    <lastmod>2024-05-07T09:28:55.985Z</lastmod>
+    <loc>https://monserrat.olavarria.it/diario.html</loc>
+    <lastmod>2026-04-05T20:01:39.840Z</lastmod>
   </url>
   <url>
-    <loc>https://monserrat.olavarria.it/copyright.html</loc>
-    <lastmod>2024-04-14T16:11:03.444Z</lastmod>
+    <loc>https://monserrat.olavarria.it/muse/about.html</loc>
+    <lastmod>2026-04-05T23:37:11.653Z</lastmod>
   </url>
   <url>
     <loc>https://monserrat.olavarria.it/contact.html</loc>
@@ -85,7 +85,7 @@
     <lastmod>2024-04-26T08:26:24.043Z</lastmod>
   </url>
   <url>
-    <loc>https://monserrat.olavarria.it/diario.html</loc>
-    <lastmod>2026-04-05T20:01:39.840Z</lastmod>
+    <loc>https://monserrat.olavarria.it/copyright.html</loc>
+    <lastmod>2024-04-14T16:11:03.444Z</lastmod>
   </url>
 </urlset>
