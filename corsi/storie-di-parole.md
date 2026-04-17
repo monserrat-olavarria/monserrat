@@ -4,7 +4,7 @@ title:  "Storie di parole , musiche  e colori"
 categories: [nido]
 ---
 
-![](/image/bambini02.jpeg)
+![](/image/foto2.jpg)
 
 Teatro, musica e arte – Laboratorio
 

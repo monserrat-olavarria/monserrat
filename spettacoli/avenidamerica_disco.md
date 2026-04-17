@@ -1,7 +1,8 @@
 ---
 #layout: post
 title:  "AvenidAmerica, dedicado a Violeta"
-category: dischi
+categories: 
+  - dischi
 image: "/image/avenidamerica_poster.jpg"
 ---
 

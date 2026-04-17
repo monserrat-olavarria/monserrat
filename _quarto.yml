@@ -4,7 +4,7 @@ project:
   resources: 
     - "*.pdf"
 website:
-  title: "Monserrat Olavarria Balmaceda - Le Muse Girovaghe"
+  title: "Monserrat Olavarria Balmaceda"
   navbar:
     right:
       - text: Chi sono

@@ -5,7 +5,7 @@ categories:
   - "scuola dell’infanzia"
 ---
 
-![](/image/foto2.jpg)
+![](/image/apfeleva-instruments-1455981.jpg)
 
 ### Grande musica per i più piccini
 

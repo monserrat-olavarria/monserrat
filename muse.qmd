@@ -10,3 +10,10 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+Le Muse Girovaghe sono una compagnia di artisti, educatori e formatori. Il gruppo si occupa di portare la musica, il teatro, la scrittura, la danza, l'espressione corporea, le arti figurative e tutte le loro possibili commistioni e declinazioni a persone di tutte le età in spazi convenzionali e non convenzionali. 
+Produciamo concerti, lezioni concerto, spettacoli e mostre per bambini e adulti. 
+In ambito educativo proponiamo percorsi laboratoriali e formativi, per scuole di ogni ordine e grado, aziende e gruppi, operando secondo i principi del cooperative learning e del lifelong learning.
+I valori su cui si fonda il nostro lavoro sono la pace, la democrazia, la possibilità di ogni individuo di vivere una vita degna, autonoma, creativa ed inclusiva.
+
+## Chi siamo
+

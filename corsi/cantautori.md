@@ -6,7 +6,7 @@ categories:
   - "scuola primaria"
 ---
 
-![](/image/girotondo.jpg)
+![](/image/2148961312.jpg)
 
 Laboratorio di educazione musicale e composizione per bambini della Scuola Primaria
 
