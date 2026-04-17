@@ -8,28 +8,30 @@
   {
     "listing": "/muse.html",
     "items": [
-      "/muse/monserrat.html"
+      "/muse/about.html"
     ]
   },
   {
     "listing": "/corsi.html",
     "items": [
-      "/corsi/giochi_in_musica.html",
-      "/corsi/primipassi-cantando.html",
-      "/corsi/storie-di-parole.html",
+      "/corsi/tiritinlalla.html",
       "/corsi/cantautori.html",
-      "/corsi/tiritinlalla.html"
+      "/corsi/primipassi-cantando.html",
+      "/corsi/giochi_in_musica.html",
+      "/corsi/unmondodivoci.html",
+      "/corsi/storie-di-parole.html"
     ]
   },
   {
     "listing": "/spettacoli.html",
     "items": [
-      "/spettacoli/canti_argilla.html",
-      "/spettacoli/2017-11-15-ilbaffodellagioconda.html",
-      "/spettacoli/avenidamerica_disco.html",
       "/spettacoli/canti_argilla_presentazione/index.html",
-      "/spettacoli/avenidamerica.html",
+      "/spettacoli/avenidamerica_disco.html",
       "/spettacoli/foto_canti_agilla/index.html",
+      "/spettacoli/avenidamerica.html",
+      "/spettacoli/instrumental.html",
+      "/spettacoli/canciones.html",
+      "/spettacoli/canti_argilla.html",
       "/spettacoli/sciamanici.html"
     ]
   }
