@@ -8,31 +8,7 @@
   {
     "listing": "/muse.html",
     "items": [
-      "/muse/about.html"
-    ]
-  },
-  {
-    "listing": "/corsi.html",
-    "items": [
-      "/corsi/tiritinlalla.html",
-      "/corsi/cantautori.html",
-      "/corsi/primipassi-cantando.html",
-      "/corsi/giochi_in_musica.html",
-      "/corsi/unmondodivoci.html",
-      "/corsi/storie-di-parole.html"
-    ]
-  },
-  {
-    "listing": "/spettacoli.html",
-    "items": [
-      "/spettacoli/canti_argilla_presentazione/index.html",
-      "/spettacoli/avenidamerica_disco.html",
-      "/spettacoli/foto_canti_agilla/index.html",
-      "/spettacoli/avenidamerica.html",
-      "/spettacoli/instrumental.html",
-      "/spettacoli/canciones.html",
-      "/spettacoli/canti_argilla.html",
-      "/spettacoli/sciamanici.html"
+      "/muse/monserrat.html"
     ]
   }
 ]
